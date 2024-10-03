@@ -1,0 +1,81 @@
+body {
+    background-color: darkkhaki;
+}
+.MADRE {
+    background-color: black;
+    padding: 5px;
+    margin: 5px;
+    margin-left: 800px;
+    margin-right: 900px;
+    font-size: 20px;
+    font-style: inherit;
+}
+h1{
+    color: black;
+}
+.chiri{
+    color: black;
+    font-size: 20px;
+}
+.MAMA2{
+    background-color: black;
+    color: white;
+    font-size: 70px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.mama3{
+    background-color: cornsilk;
+    font-size: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.mama4{
+    background-color: cornsilk;
+    font-size: 40px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+.ohoh{
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 70px;
+    font-style: oblique;
+    font-size: 15px;
+}
+.bodoque{
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 70px;
+    font-style: oblique;
+    font-size: 15px;
+}
+.cris{
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 70px;
+    font-style: oblique;
+}
+.chiri{
+    background-color: cornsilk;
+    font-size: 20px;
+}
+.ali{
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 70px;
+    font-style: oblique;
+    font-size: 15px;
+}
